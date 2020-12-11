@@ -19,6 +19,8 @@ Name | Description
 API_HOST=https://api.bitkub.com
 API_KEY=YOUR API KEY
 API_SECRET=YOUR API SECRET
+API_KEY=b2a6f92891ade60b8a9b763c6cff2806
+API_SECRET=47462497902b691c67af187ca382c23c
 
 WS_HOST=wss://api.bitkub.com/websocket-api
 STREAM_NAME=market.trade.thb_btc
